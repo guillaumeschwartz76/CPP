@@ -12,6 +12,8 @@ https://github.com/guillaumeschwartz76/CPP.git
 
 You can go to the directory corresponding to your choice of cpp for compilation and do ```make```.
 
+All cpp directories have a specific readme.
+
 ### CPP00
 
 This project is about: namespaces, classes, fonctions membres, stdio streams,
