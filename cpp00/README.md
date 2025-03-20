@@ -23,11 +23,10 @@ The program accepts the following inputs:
 * ADD: you can add contact.
 * SEARCH: displays the list of contacts and allows you to choose
  a contact to display from the maximum of 8 saved contacts.
-* EXIT:The program quits and contacts are lost.s
+* EXIT: The program quits and contacts are lost.s
 
 ### Lauch the program
 
-For example:
 ```shell
 ./PhoneBook
 ```
